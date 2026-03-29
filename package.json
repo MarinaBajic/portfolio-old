@@ -21,7 +21,7 @@
   "homepage": "https://github.com/MarinaBajic/MarinaBajic.github.io#readme",
   "devDependencies": {
     "autoprefixer": "^10.4.16",
-    "copy-webpack-plugin": "^11.0.0",
+    "copy-webpack-plugin": "^14.0.0",
     "css-loader": "^6.8.1",
     "mini-css-extract-plugin": "^2.7.6",
     "postcss": "^8.4.31",
